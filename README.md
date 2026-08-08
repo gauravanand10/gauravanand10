@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Gaurav Anand</h1>
 
-<h3 align="center">VLSI Design | RTL | Verification | Computer Architecture</h3>
+<h3 align="center">VLSI Design | RTL | Verification | Embedded Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=RTL+Design+%26+Verification;RISC-V+%7C+Computer+Architecture;Hardware+Accelerators+%7C+Systolic+Arrays;ASIC+Design+%26+Verification;Building+Hardware+Systems+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🔧 Exploring **VLSI Design & Verification**, RTL and computer architecture
+- 🔧 Exploring **VLSI Design & Verification**, RTL and embedded systems
 - 🧠 Working with **RISC-V, hardware accelerators & systolic arrays**
 - 🔌 Building **AMBA AHB protocol** designs and verification environments
 - 🏭 Exploring **ASIC design flow, DFT & formal verification**
