@@ -3,7 +3,7 @@
 <h3 align="center">VLSI Design | RTL | Verification | Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=RTL+Design+%26+Verification;RISC-V+%7C+Computer+Architecture;Hardware+Accelerators+%7C+Systolic+Arrays;ASIC+Design+%26+Verification;Building+Hardware+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=RTL+Design+%26+Verification;RISC-V+%7C+Embedded+Systems;Hardware+Accelerators+%7C+Systolic+Arrays;ASIC+Design+%26+Verification;Building+Hardware+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravanand10&theme=radical&hide_border=true" alt="Gaurav's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=gauravanand10&theme=radical&hide_border=true&sections=total,current,longest" alt="Gaurav's GitHub streak" />
 </p>
 
 ---
