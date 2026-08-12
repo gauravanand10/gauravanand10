@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/github-stats.svg" alt="Gaurav's GitHub Stats" />
+  <img src="./profile/github-stats.svg?v=2" alt="Gaurav's GitHub Stats" />
 </p>
 
 ---
