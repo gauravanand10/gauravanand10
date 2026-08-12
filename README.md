@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravanand10&theme=radical&hide_border=true&sections=total,current,longest" alt="Gaurav's GitHub streak" />
+  <img src="./profile/github-stats.svg" alt="Gaurav's GitHub Stats" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gauravanand10/gauravanand10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/gauravanand10/gauravanand10/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -85,11 +85,15 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-anand-5280b8288/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  <a href="https://github.com/gauravanand10">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gaurav-anand-5280b8288/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:gauravanand2506@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
