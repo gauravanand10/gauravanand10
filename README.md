@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=RTL+Design+%26+Verification;RISC-V+%7C+Embedded+Systems;Hardware+Accelerators+%7C+Systolic+Arrays;ASIC+Design+%26+Verification;Building+Hardware+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravanand10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/gauravanand10?tab=followers">
     <img src="https://img.shields.io/github/followers/gauravanand10?label=Followers&style=social" alt="followers" />
   </a>
-</p>
+</p> -->
 
 ---
 
