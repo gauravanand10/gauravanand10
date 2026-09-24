@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Gaurav Anand</h1>
+<h1 align="center">Hi 👋🏻 I'm Gaurav Anand</h1>
 
 <h3 align="center">VLSI Design | RTL | Verification | Embedded Systems</h3>
 
